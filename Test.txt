@@ -2,3 +2,4 @@ Testing a new file
 Time 14-53
 Tested for the trail moement
 Please check the logfile
+Tested through ccnet template
